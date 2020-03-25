@@ -1,0 +1,17 @@
+{
+  "name": "language-blocktex",
+  "version": "1.0.0",
+  "description": "BlockText language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thefossguy/blocktext_atom_extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thefossguy/blocktext_atom_extension/issues"
+  },
+  "license": "MIT"
+}
