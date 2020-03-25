@@ -1,3 +1,16 @@
 'scopeName': 'source.blocktext'
 'name': 'BlockText'
 'fileTypes': ['bt']
+
+'patterns': [
+    {
+        # First rule
+    },
+    {
+        # Second rule
+    },
+    # …
+    {
+        # Last rule
+    }
+]
